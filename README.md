@@ -13,6 +13,11 @@ You’ll find a variety of repositories here including:
 - Personal experiments and prototypes
 - Shared utilities and collaborative projects
 
+## 🗄️ Archived Projects
+
+Looking for older, deprecated, or legacy work?  
+Check out the **[AlchemyCore Archive](https://github.com/AlchemyCore-Archive)** organization for historical projects and past experiments.
+
 ## 👤 Ownership
 
 **Owner**: [AlchemistChief](https://github.com/AlchemistChief)  
