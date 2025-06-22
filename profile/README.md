@@ -22,6 +22,7 @@ Check out my public repositories instead; they’re more updated, optimized, and
 ## 👤 Ownership
 
 **Owner**: [AlchemistChief](https://github.com/AlchemistChief)
+
 **Organization**: AlchemyCore
 
 ## 📜 License
