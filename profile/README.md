@@ -16,7 +16,8 @@ You’ll find a variety of repositories here including:
 ## 🗄️ Archived Projects
 
 Looking for older, deprecated, or legacy work?
-Check out the **[AlchemyCore Archive](https://github.com/AlchemyCore-Archive)** organization for historical projects and past experiments.
+Well, too bad — those projects are private and archived.
+Check out my public repositories instead; they’re more updated, optimized, and well documented.
 
 ## 👤 Ownership
 
